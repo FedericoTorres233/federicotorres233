@@ -9,7 +9,6 @@ I'm a student from Argentina who is learning **web development** at the moment. 
 - 🌌 Building my own website in Next.js
 - 📚 Studying at EESTN7, a school in Buenos Aires
 - 🔨 Working on my [school project](https://github.com/impatrq/722B_smart_toolbox)
-- 👨‍💻 Practicing for the [oniet](https://oniet.ubp.edu.ar/) programming competitions
 
 <br/>
 
