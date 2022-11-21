@@ -2,6 +2,7 @@
 
 I'm a student from Argentina who is learning **web development** at the moment. I've always loved learning about the Universe and Nature, and I like coding web pages in my spare time.
 
+<!--
 <br/>
 
 ## What I'm doing at the moment
@@ -9,6 +10,7 @@ I'm a student from Argentina who is learning **web development** at the moment. 
 - 🌌 Building my own website in Next.js
 - 📚 Studying at EESTN7, a school in Buenos Aires
 - 🔨 Working on my [school project](https://github.com/impatrq/722B_smart_toolbox)
+--->
 
 <br/>
 
@@ -24,8 +26,6 @@ I'm a student from Argentina who is learning **web development** at the moment. 
 </div>
 
 <br/>
-
----
 
 <details>
 
