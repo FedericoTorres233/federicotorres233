@@ -1,6 +1,6 @@
 # $ whoami
 
-I'm a student from Argentina who is learning **web development** at the moment. I've always loved learning about the Universe and Nature, and I like coding web pages in my spare time.
+I'm a student from Argentina who is studying Astronomy at Universidad Nacional de La Plata. I've always loved learning about the Universe and Nature, and I like coding web pages in my spare time.
 
 <!--
 <br/>
