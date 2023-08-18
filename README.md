@@ -1,8 +1,9 @@
 # $ whoami
 
-## My tech stack
 
 <div align="center">
+
+### My tech stack
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
