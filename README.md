@@ -1,5 +1,5 @@
 # $ whoami
-
+Hello!, I'm a student from Argentina. I've always loved learning about the Universe and Nature, and I'm learning bash scripting at the moment.
 
 <div align="center">
 
