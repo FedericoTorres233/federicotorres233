@@ -36,7 +36,7 @@ Hello!, I'm a student from Argentina. I've always loved learning about the Unive
 
 <summary>:cyclone: Most used languages :cyclone:</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoTorres233&langs_count=10&include_forks=true&theme=onedark&layout=compact&exclude_repo=learning-python,learning-javascript,learning-react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoTorres233&langs_count=10&include_forks=true&theme=onedark&layout=compact&hide=javascript&exclude_repo=learning-python)
 
 </details>
 
